@@ -1,0 +1,6 @@
+{
+  "name": "SIMAKU - Sistem Informasi Akademik Universitas",
+  "description": "Sistem Informasi Akademik Universitas modern & modular dengan manajemen KRS, Jadwal, Kurikulum, Dosen, Keuangan QRIS, dan Dashboard Akademik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
